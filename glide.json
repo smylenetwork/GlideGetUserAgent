@@ -1,0 +1,13 @@
+[
+  {
+    "kind": "column",
+    "name": "Agent",
+    "description": "Know a user's system to facilitate troubleshooting",
+    "author": "Manu.n",
+    "params": [
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
